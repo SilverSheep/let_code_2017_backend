@@ -1,0 +1,7 @@
+mongodb:
+  host: provide_host_here
+  port: provide_port_here
+  database: provide_db_name_here
+  username: provide_username_here
+  password: provide_username_here
+  socketTimeout: 2000
